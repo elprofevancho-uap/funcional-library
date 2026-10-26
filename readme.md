@@ -1,3 +1,5 @@
+<img width="1524" height="650" alt="image" src="https://github.com/user-attachments/assets/bf447451-850d-4d02-9ee9-47f9bb3caf33" />
+
 # Ejercicio de Programación Funcional en Scala: Sistema de Biblioteca
 
 Este repositorio contiene un ejercicio práctico diseñado para afianzar conceptos clave de la **Programación Funcional en Scala**, tales como inmutabilidad, funciones de orden superior (`filter`, `map`, `groupBy`), manejo seguro de datos ausentes (`Option`) y composición de funciones.
